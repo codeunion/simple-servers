@@ -1,6 +1,6 @@
 # A Sequence of Simple Servers
 
-For a detailed overview and instructions, [visit the the project wiki](https://github.com/codeunion/simple-servers/wiki).
+For a detailed overview and instructions, [visit the project wiki](https://github.com/codeunion/simple-servers/wiki).
 
 To get started, you'll need to
 
